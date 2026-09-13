@@ -22,6 +22,18 @@ Everything in `Magpie.java` that is yours currently returns a `PLACEHOLDER`.
 That is on purpose — none of it is written yet, and the TODOs are the
 assignment.
 
+## When you are stuck
+
+Do not describe it. Show it. Click **Live Share** along the bottom edge of VS
+Code, in the status bar. It starts a session and copies a link. Paste that link
+into Google Chat, send it to your teacher, and go back to work.
+
+The link on its own is enough and you do not need a reply — it opens your file
+in their editor, so they can put a cursor on your broken line while you are
+still looking at it. Sending it is the same as putting your hand up, and it
+saves them the walk across the room. You see who joins the moment they do, and
+you can stop the session whenever you like.
+
 ## What you are given, and what you write
 
 | Provided | Yours |
